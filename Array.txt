@@ -1,0 +1,8 @@
+class ArrayDemo2
+   {
+    public static void main(String args[])
+    {
+     String [][]names={{"Mr","Mrs","Ms"},{"Smith","Jonu"}};
+     System.out.println(names[0][0]+names[1][0]);
+     }
+    }
